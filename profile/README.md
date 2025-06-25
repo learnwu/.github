@@ -2,9 +2,7 @@
 
 > We're here to change lives by connecting great teachers with eager students. We build beautiful, simple tools to make personalized learning accessible to everyone.
 
----
-
-**Our Values:** Student-Obsessed · Simplicity · Empowerment · One Team
+> Student-Obsessed · Simplicity · Empowerment · One Team
 
 ---
 
