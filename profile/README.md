@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <strong>Learn together, grow together.</strong>
+  <strong>Learn With You, Grow With Us</strong>
 </p>
 
 ---
 
 Hey Team,
 
-Welcome to our headquarters for **Learnwu (Learn With You)**. Everything we build here is a step forward to make EdTech more impactful!
+Welcome to our headquarters for **Learnwu**. Everything we build here is a step forward to make EdTech more impactful!
 
 ## 🎯 Our Purpose
 
