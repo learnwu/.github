@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[LINK_TO_YOUR_LOGO_OR_BANNER_IMAGE]" alt="Learnwu Banner" width="600"/>
+  <img src="https://placehold.co/1200x628/2D3748/E2E8F0?text=Learnwu" alt="Learnwu Banner" width="600"/>
 </p>
 
 <p align="center">
@@ -8,17 +8,11 @@
 
 ---
 
-Hey Team,
-
-Welcome to our headquarters for **Learnwu**. Everything we build here is a step forward to make EdTech more impactful!
+Welcome to the Learnwu headquarters. We're here to make EdTech more impactful.
 
 ## 🎯 Our Purpose
 
-Our vision is to create the world's most affordable, flexible, and best quality online tutoring marketplace.
-
-We achieve this by connecting passionate learners with exceptional tutors through smart, human-centric technology. We empower tutors with great teaching tools and delight learners with a seamless, encouraging experience.
-
-Think Learnwu as if Harvard is built online but being affordable and more impactful.
+Our vision is to build the world's most affordable, flexible, and highest-quality online tutoring marketplace. Think of it as an online Harvard: impactful and accessible. We achieve this by connecting learners and tutors with smart, human-centric technology that empowers tutors and creates a seamless, encouraging experience for students.
 
 ## ✨ Our Principles
 
@@ -43,15 +37,13 @@ Our immediate goals are to build and launch the core experience.
 
 ## 🤝 Key Contacts
 
-Not sure who to ask? Start here.
-
-| Area of Ownership         | Point Person               | Email / Contact Info    |
-| :------------------------ | :------------------------- | :---------------------- |
-| **Overall Lead / Vision** | `Phyo Thiha`              | `phyothihacodes@gmail.com`  |
-| **Engineering / Arch** | `[Engineering Lead Name]`  | `[eng-lead-email]`      |
-| **Product / Roadmap** | `[Product Manager Name]`   | `[pm-email]`            |
-| **Design / UX** | `[Design Lead Name]`       | `[design-lead-email]`   |
-| **Infrastructure / DevOps** | `[DevOps Lead Name]`       | `[devops-lead-email]`   |
+| Area of Ownership         | Point Person              | Email / Contact Info       |
+| :------------------------ | :------------------------ | :------------------------- |
+| **Overall Lead / Vision** | `Phyo Thiha`              | `phyothihacodes@gmail.com` |
+| **Engineering / Arch** | `[Engineering Lead Name]` | `[eng-lead-email]`         |
+| **Product / Roadmap** | `[Product Manager Name]`  | `[pm-email]`               |
+| **Design / UX** | `[Design Lead Name]`      | `[design-lead-email]`      |
+| **Infrastructure / DevOps**| `[DevOps Lead Name]`      | `[devops-lead-email]`      |
 
 ---
 
