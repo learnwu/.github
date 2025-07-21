@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Learn With You, Grow With Us</strong>
+  <strong>Break Barriers. Learn With Us</strong>
 </p>
 
 ---
