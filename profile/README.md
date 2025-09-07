@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/learnwu/.github/blob/main/Learnwu%20Github%20Banner.png" alt="Learnwu Banner" width="600"/>
+  <img src="https://github.com/learnwu/.github/blob/main/Logos-04.jpg" alt="Learnwu Banner" width="600"/>
 </p>
 
 <p align="center">
