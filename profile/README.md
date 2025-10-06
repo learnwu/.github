@@ -8,8 +8,6 @@ Learnwu connects learners and tutors through thoughtful design and modern techno
 
 > _Built by engineers and educators who believe learning should feel empowering, not exhausting._
 
----
-
 ## 🚀 Vision
 
 To make high-quality tutoring as accessible as streaming your favorite show — global, on-demand, and deeply human.
