@@ -1,50 +1,37 @@
 <p align="center">
-  <img src="https://github.com/learnwu/.github/blob/main/Logos-04.jpg" alt="Learnwu Banner" width="600"/>
+  <img src="../banner.jpg" alt="Learnwu Banner" width="600"/>
 </p>
 
-<p align="center">
-  <strong>Break Barriers. Learn With Us</strong>
-</p>
+We’re building the next generation of online tutoring — **affordable, flexible, and human**.
+
+Learnwu connects learners and tutors through thoughtful design and modern technology to make education more personal, effective, and accessible for everyone.
+
+> _Built by engineers and educators who believe learning should feel empowering, not exhausting._
 
 ---
 
-Welcome to the Learnwu headquarters. We're here to make EdTech more impactful.
+## 🚀 Vision
 
-## 🎯 Our Purpose
-
-Our vision is to build the world's most affordable, flexible, and highest-quality online tutoring marketplace. Think of it as an online Harvard: impactful and accessible. We achieve this by connecting learners and tutors with smart, human-centric technology that empowers tutors and creates a seamless, encouraging experience for students.
-
-## ✨ Our Principles
-
-* **Learner-Obsessed:** Their success is our success.
-* **Tutor-Empowered:** We build with them, for them.
-* **Simplicity is Key:** We fight complexity to create a joy to use.
-* **One Team, One Dream:** We trust each other and communicate openly.
-
-## 📈 Current Product Focus
-
-Our immediate goals are to build and launch the core experience.
-
-- [ ] Launch the Public Beta of Learnwu.
-- [ ] Ship v1 of the Learnwu tutor marketplace.
-- [ ] Refine the core in-lesson and feedback experience.
-
-## 🗺️ Key Resources
-
-* **Product & Design Specs:** [Link to your Notion, Confluence, or Docs]
-* **Design System & Mockups:** [Link to your Figma or Zeplin]
-* **Project Management & Sprints:** [Link to your Jira, Trello, or Asana]
-
-## 🤝 Key Contacts
-
-| Area of Ownership         | Point Person              | Email / Contact Info       |
-| :------------------------ | :------------------------ | :------------------------- |
-| **Overall Lead / Vision** | `Phyo Thiha`              | `phyothihacodes@gmail.com` |
-| **Engineering / Arch** | `[Engineering Lead Name]` | `[eng-lead-email]`         |
-| **Product / Roadmap** | `[Product Manager Name]`  | `[pm-email]`               |
-| **Design / UX** | `[Design Lead Name]`      | `[design-lead-email]`      |
-| **Infrastructure / DevOps**| `[DevOps Lead Name]`      | `[devops-lead-email]`      |
+To make high-quality tutoring as accessible as streaming your favorite show — global, on-demand, and deeply human.
 
 ---
 
-<p align="center">Let's build something amazing together.</p>
+## 🧭 What We’re Working On
+
+- 🧑‍🏫 Launching the Learnwu Tutor Marketplace (Building)
+- 💬 Refining the in-lesson and feedback experience
+- ⚙️ Expanding scheduling and learner-tutor matching
+
+---
+
+## 🤝 Connect
+
+| Role           | Contact                                       |
+| -------------- | --------------------------------------------- |
+| Founder & Lead | [Phyo Thiha](mailto:phyothihacodes@gmail.com) |
+| Website        | [learnwu.com](https://learnwu.com)            |
+| GitHub         | [@learnwu](https://github.com/learnwu)        |
+
+---
+
+<p align="center"><b>Connecting curiosity with guidance.</b></p>
